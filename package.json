@@ -1,0 +1,15 @@
+{
+  "name": "SVG.toDataURL",
+  "description": "Gives your SVG elements the missing toDataURL function (same as Canvas has)",
+  "homepage": "https://github.com/husani/SVG.toDataURL",
+  "author": "sampumon",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/husani/SVG.toDataURL.git"
+  },
+  "main": "svg_todataurl.js",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "scripts": {},
+  "license": "MIT"
+}
